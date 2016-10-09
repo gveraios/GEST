@@ -24,4 +24,4 @@ Tracking the hand gestures with Leap Motion with a high degree of accuracy
 Unstable wifi  
 
 Built with 
-Objective C, C++, xCode, OS X, Cocoa UI, Leap Motion, Philiips Hue,
+Objective C, C++, Xcode, OS X, Cocoa UI, Leap Motion, Philiips Hue
